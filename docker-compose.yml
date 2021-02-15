@@ -1,0 +1,11 @@
+version: '3.8'
+services: 
+  jupyter:
+    build: notebooks
+    image: forecasting:latest
+    ports: 
+      - '8875:8875'
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    volumes:
+      - ./notebooks:/home/jovyan/work 
