@@ -4,7 +4,7 @@ services:
     build: notebooks
     image: forecasting:latest
     ports: 
-      - '8875:8875'
+      - '8875:8888'
     environment:
       - JUPYTER_ENABLE_LAB=yes
     volumes:
