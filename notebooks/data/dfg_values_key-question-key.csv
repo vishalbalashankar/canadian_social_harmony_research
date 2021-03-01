@@ -1,24 +1,24 @@
-﻿Key,Value,Question,Question Group,Order
-SV_01,Conformity,They believe they should always show respect to their parents and to older people. It is important to them to be obedient.,Conservation,5
-SV_02,Tradition,Religious belief is important to them. They try hard to do what their religion requires.,Conservation,6
-SV_03,Benevolence,It's very important to them to help the people around them. They want to care for their well-being.,Relationships,4
-SV_04,Universalism,They think it is important that every person in the world be treated equally. They believe everyone should have equal opportunities in life.,Relationships,3
-SV_05,Selfdirection,They think it's important to be interested in things. They like to be curious and to try to understand all sorts of things.,Independence,12
-SV_06,Stimulation,They like to take risks. They are always looking for adventures.,Independence,11
-SV_07,Hedonism,They seek every chance they can to have fun. It is important to them to do things that give them pleasure.,Independence,10
-SV_08,Achievement,Getting ahead in life is important to them. They strive to do better than others.,Self-Enchantment,9
-SV_09,Power,They always want to be the one who makes the decisions. They like to be the leader.,Self-Enchantment,8
-SV_10,Security,It is important to them that things be organized and clean. They really do not like things to be a mess.,Conservation,7
-SV_11,Conformity,It is important to them to always behave properly. They want to avoid doing anything people would say is wrong.,Conservation,5
-SV_12,Tradition,They think it is best to do things in traditional ways. It is important to them to keep up the customs they have learned.,Conservation,6
-SV_13,Benevolence,It is important to them to respond to the needs of others. They try to support those they know.,Relationships,4
-SV_14,Universalism,They believe all the worlds' people should live in harmony. Promoting peace among all groups in the world is important to them.,Relationships,3
-SV_15,Selfdirection,Thinking up new ideas and being creative is important to them. They like to do things in their own original way.,Independence,12
-SV_16,Stimulation,They think it is important to do lots of different things in life. They always look for new things to try.,Independence,11
-SV_17,Hedonism,They really want to enjoy life. Having a good time is very important to them.,Independence,10
-SV_18,Achievement,Being very successful is important to them. They like to impress other people.,Self-Enchantment,9
-SV_19,Power,It is important to them to be in charge and tell others what to do. They want people to do what they say.,Self-Enchantment,8
-SV_20,Security,Having a stable government is important to them. They are concerned that the social order be protected.,Conservation,7
-Conflict_1,Compromise,,Conflict,1
-Conflict_2,Come Together,,Conflict,2
-Conflict_3,Common Understanding,,Conflict,3
+Key,Value,Question,Value Sort,Value Group,Group order SV only,Overall Sort
+SV_01,Conformity,They believe they should always show respect to their parents and to older people. It is important to them to be obedient.,3,Conservation,2,6
+SV_11,Conformity,It is important to them to always behave properly. They want to avoid doing anything people would say is wrong.,3,Conservation,2,6
+SV_02,Tradition,Religious belief is important to them. They try hard to do what their religion requires.,4,Conservation,2,7
+SV_03,Benevolence,It's very important to them to help the people around them. They want to care for their well-being.,2,Relationships,1,5
+SV_04,Universalism,They think it is important that every person in the world be treated equally. They believe everyone should have equal opportunities in life.,1,Relationships,1,4
+SV_05,Selfdirection,They think it's important to be interested in things. They like to be curious and to try to understand all sorts of things.,10,Independence,4,13
+SV_06,Stimulation,They like to take risks. They are always looking for adventures.,9,Independence,4,12
+SV_07,Hedonism,They seek every chance they can to have fun. It is important to them to do things that give them pleasure.,8,Independence,4,11
+SV_08,Achievement,Getting ahead in life is important to them. They strive to do better than others.,7,Self-Enchantment,3,10
+SV_09,Power,They always want to be the one who makes the decisions. They like to be the leader.,6,Self-Enchantment,3,9
+SV_10,Security,It is important to them that things be organized and clean. They really do not like things to be a mess.,5,Conservation,2,8
+SV_12,Tradition,They think it is best to do things in traditional ways. It is important to them to keep up the customs they have learned.,4,Conservation,2,7
+SV_13,Benevolence,It is important to them to respond to the needs of others. They try to support those they know.,2,Relationships,1,5
+SV_14,Universalism,They believe all the worlds' people should live in harmony. Promoting peace among all groups in the world is important to them.,1,Relationships,1,4
+SV_15,Selfdirection,Thinking up new ideas and being creative is important to them. They like to do things in their own original way.,10,Independence,4,13
+SV_16,Stimulation,They think it is important to do lots of different things in life. They always look for new things to try.,9,Independence,4,12
+SV_17,Hedonism,They really want to enjoy life. Having a good time is very important to them.,8,Independence,4,11
+SV_18,Achievement,Being very successful is important to them. They like to impress other people.,7,Self-Enchantment,3,10
+SV_19,Power,It is important to them to be in charge and tell others what to do. They want people to do what they say.,6,Self-Enchantment,3,9
+SV_20,Security,Having a stable government is important to them. They are concerned that the social order be protected.,5,Conservation,2,8
+Conflict_1,Compromise,Unknown,null,null,null,1
+Conflict_2,Come Together,Unknown,null,null,null,2
+Conflict_3,Common Understanding,Unknown,null,null,null,3
